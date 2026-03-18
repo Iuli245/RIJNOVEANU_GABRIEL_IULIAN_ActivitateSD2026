@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Masini.c" />
+    <ClCompile Include="Seminar5_LDI.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Masini.txt" />
