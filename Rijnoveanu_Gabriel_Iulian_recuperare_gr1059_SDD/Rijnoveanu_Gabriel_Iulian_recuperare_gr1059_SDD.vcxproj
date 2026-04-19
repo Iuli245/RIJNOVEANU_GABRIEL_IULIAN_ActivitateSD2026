@@ -128,6 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="I:\downloads\Orzan_Ingrid_ActivitateSD2026-master\Orzan_Ingrid_ActivitateSD2026-master\Seminar6.c" />
+    <ClCompile Include="I:\downloads\Orzan_Ingrid_ActivitateSD2026-master\Orzan_Ingrid_ActivitateSD2026-master\Seminar7.c" />
     <ClCompile Include="Masini.c" />
     <ClCompile Include="Seminar5_LDI.c" />
   </ItemGroup>

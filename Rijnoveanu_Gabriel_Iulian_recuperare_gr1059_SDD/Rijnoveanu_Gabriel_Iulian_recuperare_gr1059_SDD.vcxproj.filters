@@ -21,6 +21,12 @@
     <ClCompile Include="Seminar5_LDI.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="I:\downloads\Orzan_Ingrid_ActivitateSD2026-master\Orzan_Ingrid_ActivitateSD2026-master\Seminar6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\downloads\Orzan_Ingrid_ActivitateSD2026-master\Orzan_Ingrid_ActivitateSD2026-master\Seminar7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Masini.txt">
